@@ -42,7 +42,7 @@ Scores, specific mistakes, and technical breakdowns live inside each attempt's o
 
 ## Tools
 
-Excel · Claude (learning partner) · LinkedIn and GitHub for public documentation of the process
+Excel · ChatGPT and Claude (learning partner) · LinkedIn and GitHub for public documentation of the process
 
 ## Why I Publish the Mistakes, Not Just the Wins
 
